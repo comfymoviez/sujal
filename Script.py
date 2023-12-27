@@ -203,8 +203,8 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 📀 𝗦𝗶𝘇𝗲: <b><font class=smcp>{file_size}</font></b>
 
 <b>🔰 Cʀᴇᴀᴛᴏʀ : <a href="https://t.me/ComfyTraderzBot">ComfyTraderz</a>
-🔰 Cʜᴀɴɴᴇʟ : <a href="https://t.me/cinemaduniyachannel">𝐌𝐎𝐕𝐈𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
-🔰 Gʀᴏᴜᴘ : <a href="https://t.me/rockersallmoviesearch">𝐌𝐎𝐕𝐈𝐄 𝐑𝐄𝐐𝐔𝐄𝐒𝐓 𝐆𝐑𝐎𝐔𝐏</a></b>"""
+🔰 Cʜᴀɴɴᴇʟ : <a href="https://t.me/+Ges6fzAUmJZhODg1">𝐌𝐎𝐕𝐈𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
+🔰 Gʀᴏᴜᴘ : <a href="https://t.me/nobimoviesrequest">𝐌𝐎𝐕𝐈𝐄 𝐑𝐄𝐐𝐔𝐄𝐒𝐓 𝐆𝐑𝐎𝐔𝐏</a></b>"""
 
     FORCE_SUB = """
 **⚠️ Pʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴛʜɪs ʀᴜʟe ⚠️
